@@ -1,0 +1,1 @@
+print("samyu + entry course")
